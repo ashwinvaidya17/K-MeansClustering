@@ -2,9 +2,6 @@
 ### Code to implement k-means clustering
 
 WithScikit.py - contains code written using scikitlearn
-
-Scratch.py - contains code written without using a library
-
 ---
 
 ## Reference
